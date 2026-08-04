@@ -46,7 +46,16 @@ Each subsystem has a designated owner responsible for reviewing Pull Requests, e
 | `develop`                 | **Shrot**        |
 | `main`                    | **Shrot**        |
 
+## How to pen a pull request (PR)
+When someone opens:
 
+controls/priyanshu/pid
+        ↓
+feature/controls
+
+They assign:
+
+Reviewer: Shrot( reviewers are mentioned above and everybody should set reviewer as assigned )
 
 ---
 
